@@ -67,9 +67,9 @@ By using this package, you will learn:
     .
     .
     .                                 # etc, all types of shapes and service nodes
-  └── resource/
+  ├── resource/
   │ └── simple_pkg_python
-  └── launch/
+  ├── launch/
   │ ├── turtle.launch.py              # launch file
   │ └── game.launch.py
 ```
