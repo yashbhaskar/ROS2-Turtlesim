@@ -63,7 +63,7 @@ By using this package, you will learn:
   │ ├── init.py
   │ ├── circle.py                     # circle shape node
   │ ├── clear.py                      # clear service node
-  │ └── hexagon.py                    # hexagon shape node
+  │ ├── hexagon.py                    # hexagon shape node
     .
     .
     .                                 # etc, all types of shapes and service nodes
